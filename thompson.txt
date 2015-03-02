@@ -1,0 +1,19 @@
+Start: Mon, 23 Feb 2015 13:00:00 -0800
+End: Mon, 23 Feb 2015 14:25:00 -0800
+Tasks: worked on the concept and documentation
+
+Start: Sat, 28 Feb 2015 16:00:00 -0800
+End: Sat, 28 Feb 2015 17:30:00 -0800
+Tasks: worked on the database table
+
+Start: Sat, 28 Feb 2015 20:00:00 -0800
+End: Sat, 28 Feb 2015 23:15:00 -0800
+Tasks: worked on the maintainMenu.php file
+
+Start: Sun, 01 Mar 2015 09:15:00 -0800
+End: Sun, 01 Mar 2015 14:00:00 -0800
+Tasks: worked on pages 1 through 3 of the how to
+
+Start: Sun, 01 Mar 2015 16:00:00 -0800
+End: Sun, 01 Mar 2015 17:00:00 -0800
+Tasks: worked on pages 4 through 5 of the how to
